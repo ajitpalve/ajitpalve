@@ -2,7 +2,7 @@
 - 👀 I’m interested in Salesforce Development.
 - 🌱 I’m currently learning Salesforce, AWS.
  
- 🛠 Tech Stack
+ <b>🛠 Tech Stack</B>
 -💻 Salesforce | Apex
 
 <!---
