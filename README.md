@@ -1,7 +1,8 @@
 - 👋 Hello there! I’m @ajitpalve.
 - 👀 I’m interested in Salesforce Development.
 - 🌱 I’m currently learning Salesforce, AWS.
-- 🛠 Tech Stack
+ 
+ 🛠 Tech Stack
 💻 Salesforce | Apex
 
 <!---
