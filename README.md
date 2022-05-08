@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Salesforce, AWS.
  
  🛠 Tech Stack
-💻 Salesforce | Apex
+-💻 Salesforce | Apex
 
 <!---
 ajitpalve/ajitpalve is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
