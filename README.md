@@ -1,4 +1,4 @@
-- 👋 Hello there! I’m @ajitpalve.
+- 👋 Hello there! I’m <b>Ajit Palve</b>.
 - 👀 I’m interested in Salesforce Development.
 - 🌱 I’m currently learning Salesforce, AWS.
  
