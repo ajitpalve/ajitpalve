@@ -9,10 +9,9 @@
   
 
                                                
- <h2>🛠 Tech Stack</h2>
+<h3>🛠 Tech Stack</h3>
 
-- 💻 Salesforce | Apex
-
+- 💻 &nbsp; Salesforce | Apex 
  
 <!---
 ajitpalve/ajitpalve is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
