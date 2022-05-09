@@ -28,6 +28,6 @@ You can click the Preview link to take a look at your changes.
 <a href="https://linkedin.com/in/ajitpalve99" target="_blank" ><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:ajpalve151194@gmail.com" target="_blank" ><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.facebook.com/ajit.palve.10" target="_blank" ><img src="https://img.shields.io/badge/-Facebook-0077B5?style=flat&logo=Facebook&logoColor=white"/></a>
-<a href="https://instagram.com/the.existent.nomad" target="_blank" ><img src="https://img.shields.io/badge/-Instagram-0077B5?style=flat&logo=Instagram&logoColor=white"/></a> 
+<a href="https://instagram.com/the.existent.nomad" target="_blank" ><img src="https://img.shields.io/badge/-Instagram-0077B5?style=flat&logo=Instagram&logoColor=red"/></a> 
 </a>
 </p>
