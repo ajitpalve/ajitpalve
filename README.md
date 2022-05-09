@@ -1,4 +1,4 @@
-👋 Hello there! I’m <b>Ajit Palve</b>.
+<h3>👋 Hello there! I’m Ajit</h3>.
 <hr/>
 <img align="right" alt="GIF" src="https://www.animationlibrary.com/Animation11/Jobs_and_People/Computer_Programmers/cowboy_on_computer.gif" width="300"/>
 
@@ -12,6 +12,8 @@
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; Salesforce | Apex 
+- <img src='https://upload.wikimedia.org/wikipedia/commons/f/f9/Salesforce.com_logo.svg' alt='Salesforce Admin' height='15'> &nbsp; Salesforce Administrator
+- <img src='https://upload.wikimedia.org/wikipedia/commons/f/f9/Salesforce.com_logo.svg' alt='Salesforce Developer' height='15'> &nbsp; Salesforce Developer
  
 <!---
 ajitpalve/ajitpalve is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
