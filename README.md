@@ -1,5 +1,6 @@
 👋 Hello there! I’m <b>Ajit Palve</b>.
 <hr/>
+<img align="right" alt="GIF" src="https://www.animationlibrary.com/Animation11/Jobs_and_People/Computer_Programmers/cowboy_on_computer.gif" width="300"/>
 
 <h3>👨🏻‍💻 About Me</h3>
 
@@ -11,9 +12,6 @@
  <h2>🛠 Tech Stack</h2>
 
 - 💻 Salesforce | Apex
-
-
-<img align="right" alt="GIF" src="https://www.animationlibrary.com/Animation11/Jobs_and_People/Computer_Programmers/cowboy_on_computer.gif" width="500"/>
 
  
 <!---
