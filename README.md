@@ -21,6 +21,8 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
+
+<h3> 🤝🏻 Connect with Me </h3>
 <p align="left">
 <a href="https://trailblazer.me/id/ajitpalve99" target="_blank" ><img src="https://img.shields.io/badge/-Trailhead-3423A6?style=flat&logo=Trailhead-Trailhead&logoColor=white"/></a> 
 <a href="https://linkedin.com/in/ajitpalve99" target="_blank" ><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
