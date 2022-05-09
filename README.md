@@ -1,4 +1,8 @@
-- 👋 Hello there! I’m <b>Ajit Palve</b>.                                                                      
+👋 Hello there! I’m <b>Ajit Palve</b>.
+<hr/>
+
+<h3>👨🏻‍💻 About Me</h3>
+
 - 👀 I’m interested in <b>Salesforce Development</b>.                     
 - 🌱 I’m currently learning <b>Salesforce, AWS</B>.                                                                                             
   
@@ -8,9 +12,9 @@
 
 - 💻 Salesforce | Apex
 
+![image](https://www.animationlibrary.com/Animation11/Jobs_and_People/Computer_Programmers/cowboy_on_computer.gif)
 
-![image](https://www.animationlibrary.com/Animation11/Jobs_and_People/Computer_Programmers/cowboy_on_computer.gif)</div>   
-                                               
+
  
 <!---
 ajitpalve/ajitpalve is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
