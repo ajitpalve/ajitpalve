@@ -1,4 +1,4 @@
-<h3>👋 Hello there! I’m Ajit</h3>.
+<h3>👋 Hello there! I’m Ajit.</h3>
 <hr/>
 <img align="right" alt="GIF" src="https://www.animationlibrary.com/Animation11/Jobs_and_People/Computer_Programmers/cowboy_on_computer.gif" width="300"/>
 
