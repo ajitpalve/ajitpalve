@@ -12,8 +12,8 @@
 
 - 💻 Salesforce | Apex
 
-![image](https://www.animationlibrary.com/Animation11/Jobs_and_People/Computer_Programmers/cowboy_on_computer.gif)
 
+<img align="right" alt="GIF" src="https://www.animationlibrary.com/Animation11/Jobs_and_People/Computer_Programmers/cowboy_on_computer.gif" width="500"/>
 
  
 <!---
